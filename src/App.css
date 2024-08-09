@@ -10,8 +10,10 @@
   text-align: center;
   font-size: 34px;
   margin-top: 10px;
+  cursor: pointer;
   font-family: gilroy;
 }
+
 .head1 {
   text-align: center;
   font-size: 12px;
@@ -63,4 +65,30 @@ input {
 }
 #line {
   width: 40%;
+}
+#login-para{
+  text-align: center;
+}
+#login-line{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.login-main {
+  height: 370px;
+  width: 300px;
+  margin-top: 20px;
+  box-shadow: 3px 3px 9px rgb(235, 115, 3);
+  margin-left: 60px;
+  border: 1px solid rgba(0, 0, 0, 0.479);
+}
+#footer1{
+  font-size: 12px;
+  margin-left: 100px;
+  background-color: black ;
+
+}
+.footer-get{
+  height: 40px;
+  width: 80px;
 }
