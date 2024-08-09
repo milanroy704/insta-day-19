@@ -1,0 +1,66 @@
+.main {
+  height: 450px;
+  width: 300px;
+
+  box-shadow: 3px 3px 9px gray;
+  margin-left: 60px;
+  border: 1px solid rgba(0, 0, 0, 0.479);
+}
+.head {
+  text-align: center;
+  font-size: 34px;
+  margin-top: 10px;
+  font-family: gilroy;
+}
+.head1 {
+  text-align: center;
+  font-size: 12px;
+}
+.input-box {
+  display: flex;
+  height: 20px;
+  flex-wrap: wrap;
+  margin-top: 5px;
+  margin-left: 30px;
+  width: 80%;
+}
+input {
+  font-size: 10px;
+  font-family: gilroy;
+}
+.input-box > placeholder {
+  font-weight: 100;
+}
+#facebook-btn {
+  background-color: rgb(50, 50, 227);
+  color: white;
+  font-size: 12px;
+  margin-left: 80px;
+  text-align: top;
+}
+.bottom-para {
+  font-size: 10px;
+  text-align: center;
+  margin: 10px 10px;
+}
+#signup-btn {
+  background-color: royalblue;
+  font-size: 10px;
+  margin-left: 40px;
+  width: 70%;
+}
+#login {
+  height: 50px;
+  border: 0.5px solid rgba(0, 0, 0, 0.479);
+  width: 300px;
+  margin-left: 60px;
+  margin-top: 10px;
+}
+#have-account {
+  text-align: center;
+  margin-top: 18px;
+  font-size: 10px;
+}
+#line {
+  width: 40%;
+}
